@@ -1,7 +1,7 @@
 # TPC corpus
 Corpus of tonal pitch-class (TPC) counts.
 
-If you find errors or want to contribute data to the corpus, see under [Contributions](#Contributions).
+If you find errors or want to contribute data to the corpus, see under [Contributions](#Contributions). See below how to [cite](#Citation) the dataset.
 
 ## Tonal pitch-classes
 - difference to MIDI
@@ -36,8 +36,15 @@ If you use the corpus, please reference it as:
 ZENODO REF IN APA
 
 ```bibtex
-@misc{ tpc_corpusv1.0
-  author    = {Moss, F. C. and Rohrmeier, M.},
-  publisher = {Zenodo}
+@dataset{tpc_corpusv1.0,
+  author       = {Fabian C. Moss and
+                  Martin Rohrmeier},
+  title        = {TPC corpus},
+  month        = oct,
+  year         = 2019,
+  publisher    = {Zenodo},
+  version      = {1.0},
+  doi          = {...},
+  url          = {...}
 }
 ```
