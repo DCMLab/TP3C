@@ -22,3 +22,16 @@ Description of the fields in the CSV.
 - To report errors, e.g. in composition dates, please create an [issue](https://github.com/DCMLab/tpc_corpus/issues) describing the error.
 - You can contribute new data.
 - Do not hesitate to contact me for further questions: [fabian.moss@epfl.ch](mailto:fabian.moss@epfl.ch)
+
+## Citation
+
+If you use the corpus, please reference it as:
+
+ZENODO REF IN APA
+
+```bibtex
+@misc{ tpc_corpusv1.0
+  author    = {Moss, F. C. and Rohrmeier, M.},
+  publisher = {Zenodo}
+}
+```
