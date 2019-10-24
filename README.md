@@ -1,7 +1,13 @@
 # TPC corpus
-Corpus of tonal pitch-class counts.
+Corpus of tonal pitch-class (TPC) counts.
 
 If you find errors or want to contribute data to the corpus, see under [Contributions](#Contributions).
+
+## Tonal pitch-classes
+- difference to MIDI
+- important for music cognition, music information retrieval, and music theory (prediction, tension, voice-leading)
+- TPCs can be arranged on the line of fifths
+- the corpus contains counts for TPCs from Fbb to B##
 
 ## Data acquisition and preprocessing
 
