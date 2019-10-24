@@ -19,6 +19,6 @@ Description of the fields in the CSV.
 
 ## Contributions
 
-- To report errors, e.g. in composition dates, please create an [issue](issue) describing the error.
+- To report errors, e.g. in composition dates, please create an [issue](https://github.com/DCMLab/tpc_corpus/issues) describing the error.
 - You can contribute new data.
 - Do not hesitate to contact me for further questions: [fabian.moss@epfl.ch](mailto:fabian.moss@epfl.ch)
