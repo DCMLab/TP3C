@@ -1,4 +1,4 @@
-# TPC corpus
+# TPC corpus - a dataset of tonal pitch-class counts of Western classical music pieces
 Corpus of tonal pitch-class (TPC) counts.
 
 If you find errors or want to contribute data to the corpus, see under [Contributions](#Contributions). See below how to [cite](#Citation) the dataset.
