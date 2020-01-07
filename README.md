@@ -1,5 +1,5 @@
 # TP3C corpus (v1.0.0)
-[![DOI](https://zenodo.org/badge/217256542.svg)](https://zenodo.org/badge/latestdoi/217256542) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3600088.svg)](https://doi.org/10.5281/zenodo.3600088) <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
 
 The TP3C ("tonal pitch-class counts corpus") is a dataset of tonal pitch-class counts of Western classical music pieces over a large historical range. It was initially created for [Moss (2019)][https://doi.org/10.5075/epfl-thesis-9808] and will be continuously updated.
 
@@ -77,7 +77,7 @@ Versioning roughly follows the `vMAJOR.MINOR.PATCH` [semantics](https://semver.o
 
 Finally, if you use the corpus in a research project, please reference it as:
 
-Moss, F. C., Neuwirth, M., Rohrmeier, M. (2020). _TP3C_ (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3600081
+Moss, F. C., Neuwirth, M., Rohrmeier, M. (2020). _TP3C_ (Version 1.0.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3600088
 
 ```bibtex
 @dataset{tpc_corpusv1.0.0,
@@ -87,7 +87,7 @@ Moss, F. C., Neuwirth, M., Rohrmeier, M. (2020). _TP3C_ (Version 1.0.0) [Data se
   title        = {TP3C (Version 1.0.0) [Data set]},
   year         = {2020},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.3600081},
+  doi          = {10.5281/zenodo.3600088},
   url          = {https://github.com/DCMLab/TP3C}
 }
 ```
