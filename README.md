@@ -3,7 +3,7 @@ The TP3C ("tonal pitch class counts corpus") is a dataset of tonal pitch-class c
 
 _Tonal pitch classes_ (see [Temperley, 2000](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-2249.00122), or [Hook, 2007](https://www.tandfonline.com/doi/full/10.1080/17459730701374805), for details) do not distinguish between octaves (e.g. F4 or F5) but express enharmonic differences (e.g. B# and C). They can be arranged on the line of fifths:
 
-![line of fifths](C:\Users\fabianmoss\Desktop\GitHub\DCMLab\tpc_corpus\lof.png)
+![line of fifths](lof.png)
 
 In particular, each piece can be represented as a distribution of tonal pitch classes on this line.
 
