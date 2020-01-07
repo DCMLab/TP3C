@@ -47,9 +47,9 @@ The pieces in the corpus come from a variety or resources which are given in the
 
 ### License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Namensnennung-Nicht kommerziell 4.0 International Lizenz</a>.
 
-Since the corpus contains only the counts of tonal pitch-classes, the original pieces can not be reconstructed from them. The corpus can be freely used for non-commercial purposes, as long as credit is given to the owners, e.g. by [citing the corpus](#Cite) appropriately. It is not allowed to publish derivatives, such as selections, transformations, and expansions, of the corpus.
+Since the corpus contains only the counts of tonal pitch-classes, the original pieces can not be reconstructed from them. The corpus can be freely used for non-commercial purposes, as long as credit is given to the owners, e.g. by [citing the corpus](#Cite) appropriately.
 
 ### Versioning
 
