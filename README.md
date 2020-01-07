@@ -1,19 +1,31 @@
-# TP3C corpus
-The TP3C ("tonal pitch class counts corpus") is a dataset of tonal pitch-class counts of Western classical music pieces over a large historical range. It was initially created for [Moss (2919)][1]
+# TP3C corpus (v1.0)
+The TP3C ("tonal pitch class counts corpus") is a dataset of tonal pitch-class counts of Western classical music pieces over a large historical range. It was initially created for [Moss (2919)][1] and will be continuously updated.
+
+[1]: https://doi.org/10.5075/epfl-thesis-9808 "Moss, F. C. (2019). Transitions of Tonality: A Model-Based Corpus Study [Doctoral Dissertation, École Polytechnique Fédérale de Lausanne]. https://doi.org/10.5075/epfl-thesis-9808"
 
 If you find errors or want to contribute data to the corpus, see under [Contributions](#Contributions). If you use this corpus in a research project, see below how to [cite](#Citation) the dataset.
 
-## Tonal pitch-classes
+### Tonal pitch-classes
+
+The concept of tonal pitch classes is described in detail in [^1]
+
 - difference to MIDI
 - important for music cognition, music information retrieval, and music theory (prediction, tension, voice-leading)
 - TPCs can be arranged on the line of fifths
-- the corpus contains counts for TPCs from Fbb to B##
+- the corpus contains counts for TPCs from F$\flat\flat$ to B$\sharp\sharp$
 
-## Data acquisition and preprocessing
+### Data acquisition and preprocessing
 
 - Describe the data sources
 
-## Corpus description
+### Corpus description
+
+**Overview**
+
+* number of pieces: 2012
+* number of composers: 75 composers
+* historical range: 1361 - 1942
+
 The corpus is given as a tab-separated `.tsv` file with the following columns:
 
 - `composer`: last name of composer
@@ -30,13 +42,17 @@ The corpus is given as a tab-separated `.tsv` file with the following columns:
 - `display_year`: unique year per piece; if composition year is not given, publication year is used; if neither is given, the middle of the composer's life is used
 - `Fbb` ... `B##`: counts of tonal pitch classes 
 
-## Contributions
+### Version History
+
+* v1.0: Initial version, identical to corpus used in Moss (2019).
+
+### Contribute
 
 - To report errors, e.g. in composition dates, please create an [issue](https://github.com/DCMLab/tpc_corpus/issues) describing the error.
-- You can contribute new data in the same way
-- Do not hesitate to contact me for further questions: [fabian.moss@epfl.ch](mailto:fabian.moss@epfl.ch)
+- Contact me if you want to contribute data
+- Also do not hesitate to contact me for further questions: [fabian.moss@epfl.ch](mailto:fabian.moss@epfl.ch)
 
-## Citation
+### Citation
 
 If you use the corpus, please reference it as:
 
@@ -56,7 +72,8 @@ ZENODO REF IN APA
 }
 ```
 
-## References
+### References
 
-[1]: https://doi.org/10.5075/epfl-thesis-9808	"Moss, F. C. (2019). Transitions of Tonality: A Model-Based Corpus Study [Doctoral Dissertation, École Polytechnique Fédérale de Lausanne]. https://doi.org/10.5075/epfl-thesis-9808"
-
+```markdown
+[^1]: Hook (2007)
+```
