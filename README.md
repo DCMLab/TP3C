@@ -9,8 +9,8 @@ In particular, each piece can be represented as a distribution of tonal pitch cl
 
 ![Alkan](alkan_dist.png)
 
-_Distribution of tonal pitch-classes of the first movement of Alkan’s "Concerto for Solo
-Piano", op. 39, no. 8._
+_<p align="center">Distribution of tonal pitch-classes of the first movement of Alkan’s "Concerto for Solo
+Piano", op. 39, no. 8._</p>
 
 This representation of musical tones has implications for computational musicology and musit theory, music information retrieval, and music perception and cognition.
 
