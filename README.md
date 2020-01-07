@@ -79,7 +79,7 @@ Moss, F. C., Neuwirth, M., Rohrmeier, M. (2020). _TP3C_ (Version 1.0.0) [Data se
 ```bibtex
 @dataset{tpc_corpusv1.0.0,
   author       = {Fabian C. Moss and
-  				  Markus Neuwirth and
+                  Markus Neuwirth and
                   Martin Rohrmeier},
   title        = {TP3C (Version 1.0.0) [Data set]},
   year         = {2020},
